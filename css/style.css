@@ -199,25 +199,25 @@
     background-size: cover;
 }
 .bandarban-hero {
-    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/bandarbaan/bandarbaan.jpeg);
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/bandarban/bandarban1.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .coxbazar-hero {
-    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/tangua/tangua3.jpeg);
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/coxbazar/coxbazar2.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .kuakata-hero {
-    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/tangua/tangua3.jpeg);
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/kuakata/kuakata1.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .saintmartin-hero {
-    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/tangua/tangua3.jpeg);
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/saintmartin/3.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
