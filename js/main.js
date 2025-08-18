@@ -92,3 +92,8 @@
     
 })(jQuery);
 
+document.addEventListener('copy', function(e) {
+            e.preventDefault();
+            alert("Copying content is not allowed!");
+});
+
