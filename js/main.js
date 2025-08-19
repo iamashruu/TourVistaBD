@@ -97,3 +97,17 @@ document.addEventListener('copy', function(e) {
             alert("Copying content is not allowed!");
 });
 
+
+// Removing .html extension from URLs
+document.addEventListener("DOMContentLoaded", () => {
+  // If the URL ends with .html, remove it
+  if (window.location.pathname.endsWith(".html")) {
+    const cleanUrl = window.location.pathname.replace(/\.html$/, "");
+    window.history.replaceState({}, "", cleanUrl);
+  }
+
+  // Special case: index.html → /
+  if (window.location.pathname.endsWith("index")) {
+    window.history.replaceState({}, "", "/");
+  }
+})
