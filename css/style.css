@@ -245,6 +245,24 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.darjeeling-hero {
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/darjeeling/3.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sikkim-hero {
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/sikim/0.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.darjeeling-sikkim-hero {
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/sikim/41.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .breadcrumb-item + .breadcrumb-item::before {
     color: rgba(255, 255, 255, .5);
